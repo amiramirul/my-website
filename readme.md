@@ -1,3 +1,6 @@
+How to access website
+Link : https://amiramirul.github.io/my-website
+
 How to update web git
 1. git add .
 2. git commit -m "Yada Yada"
